@@ -1,0 +1,11 @@
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.40.131:5070;received=192.168.40.131;rport=5070;branch=z9hG4bKPj-EJ7-LRAjUDquv09AI4W6rtSgWbbXlYz
+From: <sip:1602@192.168.40.131>;tag=.XBDMTD1L9ryGAM8Wy9lvd4yJ2uzxRRS
+To: <sip:1602@192.168.40.131>;tag=e0b588f197b6f2835b57bb7b6e0f9c24.27c5
+Call-ID: n2b2s5w4x7qqlTpj1hPFKFBgYWMuIgBO
+CSeq: 60708 REGISTER
+Contact: <sip:1602@192.168.40.131:5070;ob>;expires=300
+Server: OpenSIPS (2.2-dev (i386/linux))
+Content-Length: 0
+
+
